@@ -1,0 +1,23 @@
+{
+  "activation_key": "alt_r",
+  "emergency_stop_key": "end",
+  "movement_keys": {
+    "up": "i",
+    "down": "k",
+    "left": "j",
+    "right": "l"
+  },
+  "left_click_key": "n",
+  "right_click_key": "m",
+  "scroll_up_key": "p",
+  "scroll_down_key": ";",
+  "speed": 1200,
+  "acceleration": 3000,
+  "direction_change_braking": 9000,
+  "inertia_deceleration": 5000,
+  "scroll_speed": 1,
+  "scroll_interval": 0.03,
+  "inertia_enabled": true,
+  "diagonal_normalization": true,
+  "debug": false
+}
